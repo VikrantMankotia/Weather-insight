@@ -169,6 +169,12 @@ This project was built to understand the practical workflow of:
 * Deploying applications to a cloud platform
 
 ---
+## 🚧 Future Improvements
+
+- Add 5-day weather forecast
+- Add weather icons and animations
+- Improve UI styling
+- Add location-based weather detection
 
 # 👨‍💻 Author
 
